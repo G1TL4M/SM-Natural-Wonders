@@ -115,3 +115,24 @@ TileSets/FantasyHex/Tiles/Kalambo Falls
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Mount Tai
+  rotate: false
+  xy: 244, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Zhangye Danxia
+  rotate: false
+  xy: 284, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ha Long Bay
+  rotate: false
+  xy: 324, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
