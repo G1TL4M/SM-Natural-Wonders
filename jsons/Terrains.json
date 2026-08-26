@@ -490,16 +490,15 @@
 	{
 		"name": "Zhangye Danxia",
 		"type": "NaturalWonder",
-		"food": 2,
 		"culture": 1,
 		"happiness": 1,
 		"science": 2,
+		"movementCost": 2,
 		"overrideStats": true,
 		"occoursOn": ["Desert"],
 		"uniques": ["Must be adjacent to [1] to [3] [Desert] tiles",
-			"Must be adjacent to [1] to [6] [Hill] tiles"],
+			"Must be adjacent to [1] to [3] [Hill] tiles"],
 		"turnsInto": "Desert",
-		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
 	},
