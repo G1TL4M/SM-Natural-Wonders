@@ -136,3 +136,10 @@ TileSets/FantasyHex/Tiles/Ha Long Bay
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/The Serengeti
+  rotate: false
+  xy: 364, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
