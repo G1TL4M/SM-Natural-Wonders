@@ -614,9 +614,9 @@
 		"name": "Crater Lake",
 		"type": "NaturalWonder",
 		"overrideStats": true,
-		"occursOn": ["Lake"],
+		"occursOn": ["Lakes"],
 		"uniques": [""],
-		"turnsInto": "Lake",
+		"turnsInto": "Lakes",
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
