@@ -440,7 +440,7 @@
 		"overrideStats": true,
 		"uniques": ["Must be adjacent to [0] to [0] [Desert] tiles",
 			"Occurs on latitudes from [0] to [40] percent of distance equator to pole",
-			"Occurs in groups of [4] to [4] tiles"],
+			"Occurs in groups of [1] to [3] tiles"],
 		"turnsInto": "Grassland",
 		"unbuildable": true,
 		"weight": 10
@@ -545,7 +545,7 @@
 		"occursOn": ["Desert"],
 		"uniques": ["Must be adjacent to [3] to [6] [Desert] tiles",
 			"Occurs on latitudes from [0] to [70] percent of distance equator to pole",
-			"Occurs in groups of [4] to [4] tiles"],
+			"Occurs in groups of [1] to [3] tiles"],
 		"turnsInto": "Desert",
 		"unbuildable": true,
 		"weight": 10
