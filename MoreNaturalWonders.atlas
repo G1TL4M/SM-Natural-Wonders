@@ -1,5 +1,5 @@
 MoreNaturalWonders.png
-size: 400, 80
+size: 400, 120
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -139,6 +139,20 @@ TileSets/FantasyHex/Tiles/Ha Long Bay
 TileSets/FantasyHex/Tiles/The Serengeti
   rotate: false
   xy: 364, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sahara el Beyda
+  rotate: false
+  xy: 4, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lake Retba
+  rotate: false
+  xy: 44, 84
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
