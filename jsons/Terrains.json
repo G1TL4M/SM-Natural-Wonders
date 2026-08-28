@@ -569,6 +569,21 @@
 		"weight": 10
 	},
 	{
+		"name": "Crater Lake",
+		"type": "NaturalWonder",
+		"science": "1",
+		"faith": "5",
+		"overrideStats": true,
+		"occursOn": ["Grassland","Plains","Tundra"],
+		"uniques": ["Fresh water",
+			"Must be adjacent to [2] to [6] [Mountain] tiles",
+			"Occurs on latitudes from [30] to [70] percent of distance equator to pole",],
+		"turnsInto": "Lakes",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
 		"name": "The Everglades",
 		"type": "NaturalWonder",
 		"overrideStats": true,
@@ -606,21 +621,6 @@
 		"occursOn": ["Grassland"],
 		"uniques": [""],
 		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
-		"name": "Crater Lake",
-		"type": "NaturalWonder",
-		"science": "1",
-		"faith": "5",
-		"overrideStats": true,
-		"occursOn": ["Grassland","Plains","Tundra"],
-		"uniques": ["Fresh water",
-			"Must be adjacent to [2] to [6] [Mountain] tiles",
-			"Occurs on latitudes from [30] to [70] percent of distance equator to pole",],
-		"turnsInto": "Lakes",
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
