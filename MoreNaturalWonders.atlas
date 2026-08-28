@@ -164,3 +164,10 @@ TileSets/FantasyHex/Tiles/Crater Lake
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Gobustan
+  rotate: false
+  xy: 124, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
