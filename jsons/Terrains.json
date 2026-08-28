@@ -584,6 +584,19 @@
 		"weight": 10
 	},
 	{
+		"name": "Gobustan",
+		"type": "NaturalWonder",
+		"science": 1,
+		"culture": 4,
+		"overrideStats": true,
+		"occursOn": ["Desert"],
+		"uniques": ["Must be adjacent to [1] to [2] [Mountain] tiles"],
+		"turnsInto": "Desert",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 8
+	},
+	{
 		"name": "The Everglades",
 		"type": "NaturalWonder",
 		"overrideStats": true,
@@ -592,16 +605,6 @@
 		"turnsInto": "Grassland",
 		"unbuildable": true,
 		"weight": 10
-	},
-	{
-		"name": "Gobustan",
-		"type": "NaturalWonder",
-		"overrideStats": true,
-		"occursOn": ["Desert"],
-		"uniques": [""],
-		"turnsInto": "Desert",
-		"unbuildable": true,
-		"weight": 1,
 	},
 	{
 		"name": "Mauna Kea",
