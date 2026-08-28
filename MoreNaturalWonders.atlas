@@ -157,3 +157,10 @@ TileSets/FantasyHex/Tiles/Lake Retba
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Crater Lake
+  rotate: false
+  xy: 84, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
