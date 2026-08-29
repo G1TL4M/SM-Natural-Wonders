@@ -122,7 +122,12 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Mount Fuji (富士山・富士の山, Fujisan, Fuji no Yama) is an active stratovolcano located on the Japanese island of Honshu, with a summit elevation of 3,776.24 m (12,389 ft 3 in)."},
+			{"text": "It is the highest mountain in Japan, the second-highest volcano on any Asian island (after Mount Kerinci on the Indonesian island of Sumatra), and the seventh-highest peak of an island on Earth."},
+			{"text": "Mount Fuji last erupted from 1707 to 1708."}
+		]
 	},
 	{
 		"name": "Krakatoa",
@@ -197,7 +202,14 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Mount Kailash is a mountain in Ngari Prefecture, Tibet Autonomous Region of China. It lies in the Gangdise Shan mountain range of the Transhimalaya, in the western part of the Tibetan Plateau. The peak of Mount Kailash is located at an elevation of 6,638 m (21,778 ft), near the western trijunction of China, India, and Nepal."},
+			{"text": "Mount Kailash is located close to Manasarovar and Rakshastal lakes. The sources of four rivers–Indus, Sutlej, Brahmaputra, and Ghaghara–lie in the vicinity of the region."},
+			{"text": "The mountain is considered sacred in Bon, Buddhism, Hinduism, and Jainism. Various groups undertake pilgrimages to the mountain, which generally involves trekking towards Lake Manasarovar and a circumambulation of the mountain."},
+			{"text": ""},
+			{"text": "While the mountain has been surveyed by climbers in the past, there has been no recorded successful ascent of the mountain. The climbing of the mountain is prohibited by the Chinese government due to its religious significance."}
+		]
 	},
 	{
 		"name": "Mount Sinai",
@@ -212,7 +224,11 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Mount Sinai, also known as Jabal Musa (Arabic: جَبَل مُوسَى, lit. 'Mountain of Moses'), is a mountain on the Sinai Peninsula of Egypt."},
+			{"text": "It is one of several locations claimed to be the biblical Mount Sinai, the place where, according to the sacred scriptures of the three major Abrahamic religions (Torah, Bible, and Quran), the Hebrew prophet Moses received the Ten Commandments from God."}
+		]
 	},
 	{
 		"name": "Sri Pada",
@@ -228,7 +244,11 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Sri Pada (called Adam's Peak on Wikipedia) is a 2,243-metre-tall (7,359-foot) conical sacred mountain located in central Sri Lanka. It is well known for the Sri Pada (IAST: Śrī Pāda; Sinhala: ශ්‍රී පාද, lit. 'sacred footprint'), a 1.8 m (5 ft 11 in) rock formation resembling a footprint near the summit whose name is also used for the mountain itself."},
+			{"text": "In Buddhist tradition the print is held to be the footprint of the Buddha, later in Sri Lankan Hindu tradition that of Hanuman or Shiva (its Tamil name, சிவனொளிபாதமலை, Sivanolipaathamalai, means 'Mountain of Shiva's Light'), and in some Islamic and Christian traditions that of Adam or St. Thomas the Apostle."}
+		]
 	},
 	{
 		"name": "Uluru",
@@ -725,11 +745,17 @@
 		"culture": 3,
 		"overrideStats": true,
 		"occoursOn": ["Mountain"],
-		"uniques": [""],
+		"uniques": ["Must be adjacent to [1] [Grassland] tiles",
+			"Must be adjacent to [5] [Coast] tiles"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Mount Athos is a mountain on the Athos peninsula in northeastern Greece directly on the Aegean Sea. It is an important center of Eastern Orthodox monasticism."},
+			{"text": "The mountain and most of the Athos peninsula are governed as an autonomous region in Greece by the monastic community of Mount Athos, which is ecclesiastically under the direct jurisdiction of the Ecumenical Patriarch of Constantinople."},
+			{"text": "The remainder of the peninsula forms part of the Aristotelis municipality. By Greek law and by religious tradition, women are prohibited from entering the area governed by the monastic community."}
+		]
 	},
 	{
 		"name": "Giant's Causeway",
