@@ -242,7 +242,7 @@
 			"Occurs in groups of [1] to [3] tiles",
 			"Neighboring tiles will convert to [Coast] <in tiles without [Socatra]>"],
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
 	},
 	{
 		"name": "Blood Falls",
@@ -255,7 +255,9 @@
 			"Must be adjacent to [0] to [2] [Coast] tiles"],
 		"unbuildable": true,
 		"impassable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+            {"text": "Blood Falls is an outflow of an iron(III) oxide–tainted plume of saltwater, flowing from the tongue of Taylor Glacier onto the ice-covered surface of West Lake Bonney in the Taylor Valley of the McMurdo Dry Valleys in Victoria Land, East Antarctica."}
 	},
 	{
 		"name": "Eye Of Sahara",
@@ -392,7 +394,11 @@
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [1] to [6] [Snow] tiles",
 			"Must be adjacent to [0] [Coast] tiles"],
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+            {"text": "Lake Vostok (Russian: озеро Восток, romanized: ozero Vostok) is the largest of Antarctica's 675 known subglacial lakes and the 16th largest lake in the world by area."},
+			{"text": "Lake Vostok is located at the southern Pole of Cold, beneath Russia's Vostok Station, under the surface of the central East Antarctic Ice Sheet, which is at 3,488 m (11,444 ft) above mean sea level."},
+			{"text": "The surface of this fresh water lake is approximately 4,000 m (13,100 ft) under the surface of the ice, which places it at approximately 500 m (1,600 ft) below sea level."}
 	},
 	{
 		"name": "Tunguska",
