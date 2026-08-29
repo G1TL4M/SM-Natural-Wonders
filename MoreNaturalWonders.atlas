@@ -171,3 +171,10 @@ TileSets/FantasyHex/Tiles/Gobustan
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Wrangel Island
+  rotate: false
+  xy: 164, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
