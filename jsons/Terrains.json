@@ -29,7 +29,13 @@
 		"turnsInto": "Coast",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometres (1,400 mi) over an area of approximately 344,400 square kilometres (133,000 mi2)."},
+			{"text": "The reef is located in the Coral Sea, off the coast of Queensland, Australia. It is separated from the coast by a channel 160 kilometres (100 mi) wide in places and over 61 metres (200 ft) deep."},
+			{"text": "The Great Barrier Reef can be seen from outer space and is the world's biggest single structure made by living organisms."},
+			{"text": "This reef structure is composed of and built by billions of tiny organisms, known as coral polyps."}
+		]
 	},
 	{
 		"name": "Old Faithful",
@@ -155,7 +161,12 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 5
+		"weight": 5,
+		"civilopediaText": [
+			{"text": "Cerro Rico (Spanish for 'Rich Mountain'), also known as Cerro Potosí ('Potosí Mountain') or Sumaq Urqu (Quechua sumaq 'beautiful, good, pleasant', and urqu 'mountain'); is a mountain in the Andes near the Bolivian city of Potosí."},
+			{"text": "Cerro Rico—popularly conceived as being 'made of' silver ore—is famous for having provided vast quantities of silver to the Spanish Empire, most of which was shipped to metropolitan Spain."},
+			{"text": "It is estimated that approximately 85 percent of the silver produced in the central Andes during this period came from Cerro Rico."}
+		]
 	},
 	{
 		"name": "Barringer Crater",
@@ -319,7 +330,12 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Mount Kineo is a prominent geological feature located on a 1,150-acre (470 ha) peninsula that extends from the easterly shore of Moosehead Lake in the northern forest of Maine."},
+			{"text": "Native Americans once traveled great distances to Mt. Kineo to acquire its rhyolite rock."},
+			{"text": "Being the country's largest known mass of this rock, once used by Indigenous people to craft arrowheads, hatchets, chisels, etc., Indigenous implements made from the stone have been found in all parts of New England and even further south, it is evident that various tribes visited Mt. Kineo for centuries to obtain this material."}
+		]
 	},
 	{
 		"name": "Darian Gap",
@@ -384,7 +400,12 @@
 			"Occurs in groups of [1] to [2] tiles"],
 		"turnsInto": "Ocean",
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Mariana Trench is the deepest oceanic trench on Earth, located in the western Pacific Ocean, about 200 kilometers (124 mi) east of the Mariana Islands."},
+			{"text": "It is crescent-shaped and measures about 2,550 km (1,580 mi) in length and 69 km (43 mi) in width."},
+			{"text": "The maximum known depth is 10,935 ± 6 meters (35,876 ± 20 ft; 5,979.3 ± 3.3 fathoms; 6.7947 ± 0.0037 mi) at the southern end of a small slot-shaped valley in its floor known as the Challenger Deep. This makes the deepest point of the trench more than 2 km (1.2 mi) farther from sea level than the peak of Mount Everest."}
+		]
 	},
 	{
 		"name": "White Cliffs",
@@ -430,7 +451,11 @@
 			"Occurs in groups of [1] to [3] tiles"],
 		"turnsInto": "Tundra",
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Tunguska event was a large explosion of between 3 and 50 megatons TNT equivalent that occurred near the Podkamennaya Tunguska River in Yeniseysk Governorate (now Krasnoyarsk Krai), Russia, on the morning of 30 June [O.S. 17 June] 1908."},
+			{"text": "The explosion over the sparsely populated East Siberian taiga felled a large number of trees, over an area of 2,150 km2 (830 sq mi) of forest, and eyewitness accounts suggest up to three people may have died."}
+		]
 	},
 	{
 		"name": "Redwood Forest",
@@ -493,7 +518,13 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Kalambo Falls on the Kalambo River is a 235-metre (772 ft) single-drop waterfall on the border of Zambia and Rukwa Region, Tanzania at the southeast end of Lake Tanganyika."},
+			{"text": "The falls are some of the tallest uninterrupted falls in Africa (after South Africa's Tugela Falls, Ethiopia's Jin Bahir Falls and others)."},
+			{"text": "Kalambo Falls is also considered one of the most important archaeological sites in Africa, with occupation spanning over 447,000 years."},
+			{"text": "In 2023, archaeologists announced the discovery of wooden structures estimated to be 476,000 years old at the falls, predating Homo sapiens. Two worked wooden beams display evidence that burning was used to create an interlocking wooden structure, possibly a platform by what would have then been a water source for the early hominid residents. This is the earliest known hominid structure."}
+		]
 	},
 	{
 		"name": "Mount Tai",
@@ -509,7 +540,12 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Mount Tai (Chinese: 泰山; pinyin: Tài Shān) is a mountain of historical and cultural significance located north of the city of Tai'an."},
+			{"text": "Mount Tai is known as the eastern mountain of the Sacred Mountains of China. It is associated with sunrise, birth, and renewal, and is often regarded the foremost of the five."},
+			{"text": "Mount Tai has been a place of worship for at least 3,000 years and served as one of the most important ceremonial centers of China during large portions of this period."}
+		]
 	},
 	{
 		"name": "Zhangye Danxia",
