@@ -61,9 +61,9 @@
 			"Grants [+500 Gold] to the first civilization to discover it"],
 		"weight": 2,
 		"civilopediaText": [
-			{"El Dorado is a mythical city of gold supposedly located somewhere in South America."},
-			{"The legend originated in 16th-century Spanish accounts of a ruler known as el Dorado, or the Golden One, who was said to cover himself in gold dust before washing it off in a sacred lake."},
-			{"Over time, the name came to refer not only to the ruler, but also to a lost city or kingdom of immense wealth."}
+			{"text": "El Dorado is a mythical city of gold supposedly located somewhere in South America."},
+			{"text": "The legend originated in 16th-century Spanish accounts of a ruler known as el Dorado, or the Golden One, who was said to cover himself in gold dust before washing it off in a sacred lake."},
+			{"text": "Over time, the name came to refer not only to the ruler, but also to a lost city or kingdom of immense wealth."}
 		]
 	},
 	{ // This will count as "Fresh water" in civ 6
@@ -80,8 +80,8 @@
 			"Tile provides yield without assigned population"],
 		"weight": 1,
 		"civilopediaText": [
-			{"The Fountain of Youth is a mythical spring that supposedly restores the youth of anyone who drinks or bathes in its waters."},
-			{"Tales of such a fountain have been recounted around the world for thousands of years, appearing in the writings of Herodotus (5th century BCE), in the Alexander Romance (3rd century CE), and in the stories of Prester John (early Crusades, 11th/12th centuries CE)."}
+			{"text": "The Fountain of Youth is a mythical spring that supposedly restores the youth of anyone who drinks or bathes in its waters."},
+			{"text": "Tales of such a fountain have been recounted around the world for thousands of years, appearing in the writings of Herodotus (5th century BCE), in the Alexander Romance (3rd century CE), and in the stories of Prester John (early Crusades, 11th/12th centuries CE)."}
 		]
 	},
 	{
@@ -253,10 +253,10 @@
 		"unbuildable": true,
 		"weight": 10,
 		"civilopediaText": [
-			{"Socotra, locally known as Saqatri, is a Yemeni island in the Indian Ocean."},
-			{"It is situated between the Gulf of Aden, the Guardafui Channel and the Arabian Sea, and lies near major shipping routes."},
-			{"Socotra is unusual in hosting a large number of species that are endemic; a third of its plant life is found nowhere else on Earth."},
-			{"Due to the island's unusual geography, it has been described as 'the most alien-looking place on Earth'."}
+			{"text": "Socotra, locally known as Saqatri, is a Yemeni island in the Indian Ocean."},
+			{"text": "It is situated between the Gulf of Aden, the Guardafui Channel and the Arabian Sea, and lies near major shipping routes."},
+			{"text": "Socotra is unusual in hosting a large number of species that are endemic; a third of its plant life is found nowhere else on Earth."},
+			{"text": "Due to the island's unusual geography, it has been described as 'the most alien-looking place on Earth'."}
 		]
 	},
 	{
@@ -652,8 +652,8 @@
 		"unbuildable": true,
 		"weight": 10,
 		"civilopediaText": [
-			{"The Mountains of the Moon (Latin: Montes Lunae; Arabic: جبال القمر, Jibālu al-Qamar or Jibbel el Kumri) are a legendary mountain or mountain range in east Africa at the source of the Nile River."},
-			{"Various identifications have been made in modern times, the Rwenzori Mountains of Uganda and the Democratic Republic of the Congo being the most celebrated."}
+			{"text": "The Mountains of the Moon (Latin: Montes Lunae; Arabic: جبال القمر, Jibālu al-Qamar or Jibbel el Kumri) are a legendary mountain or mountain range in east Africa at the source of the Nile River."},
+			{"text": "Various identifications have been made in modern times, the Rwenzori Mountains of Uganda and the Democratic Republic of the Congo being the most celebrated."}
 		]
 	},
 	{
