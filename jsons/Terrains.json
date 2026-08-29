@@ -486,6 +486,7 @@
 		"civilopediaText": [
 			{"text": "The White Cliffs of Dover are the region of English coastline facing the Strait of Dover and France. The cliff face, which reaches a height of 350 feet (110 m), owes its striking appearance to its composition of chalk accented by streaks of black flint, deposited during the Late Cretaceous."},
 			{"text": "The cliffs, on both sides of the town of Dover in Kent, stretch for eight miles (13 km). The White Cliffs of Dover form part of the North Downs. The cliffs are part of the Dover to Kingsdown Cliffs Site of Special Scientific Interest and Special Area of Conservation. The top of the cliffs hosts a chalk grassland ecosystem with an abundance of bird, flower, and butterfly species."}
+		]
 	},
 	{
 		"name": "Lake Vostok",
@@ -560,6 +561,7 @@
 		"weight": 10,
 		"civilopediaText": [
 			{"text": "The Chocolate Hills (Cebuano: Mga Bungtod sa Tsokolate, Filipino: Mga Tsokolateng Burol, or Mga Burol na Tsokolate) are a geological formation in the Philippine province of Bohol. A minimum of 1,260 hills, and possibly over 1,776, spread over an area of more than 50 square kilometers (20 sq mi). They are covered in green grass that turns a chocolate-brown during the dry season, hence the name."}
+		]
 	},
 	{
 		"name": "Chicxulub Crater",
@@ -788,6 +790,7 @@
 		"civilopediaText": [
 			{"text": "The Galápagos Islands (Spanish: Islas Galápagos) are an archipelago of volcanic islands in the Eastern Pacific, located around the equator, 485 nautical miles (898 km; 558 mi) west of the mainland of South America. They form the Galápagos Province of the Republic of Ecuador, with a population of slightly over 33,000 in 2020. The province is divided into the cantons of San Cristóbal, Santa Cruz, and Isabela, the three most populated islands in the chain."},
 			{"text": "The Galápagos are famous for their large number of endemic species, which were studied by Charles Darwin in the 1830s and inspired his theory of evolution by means of natural selection. All of these islands are protected as part of Ecuador's Galápagos National Park and Marine Reserve."}
+		]
 	},
 	{
 		"name": "Torres Del Paine",
