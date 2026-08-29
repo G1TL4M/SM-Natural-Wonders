@@ -338,7 +338,10 @@
 		"turnsInto": "Desert",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Dead Sea (Arabic: اَلْبَحْر الْمَيِّت, romanized: al-Baḥr al-Mayyit; or اَلْبَحْر الْمَيْت, al-Baḥr al-Mayt; Hebrew: יַם הַמֶּלַח, romanized: Yam hamMelaḥ), also known by other names, is a landlocked salt lake bordered by Jordan to the east, the West Bank to the west and Israel to the southwest. It lies in the endorheic basin of the Jordan Rift Valley, and its main tributary is the Jordan River."}
+		]
 	},
 	{
 		"name": "Mount Kineo",
@@ -375,7 +378,12 @@
 			"Considered [Undesirable] when determining start locations"],
 		"turnsInto": "Grassland",
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Darién Gap (Spanish: Tapón del Darién) is a remote, roadless, and dangerous area of rainforest on the international border between Colombia and Panama."},
+			{"text": "Stretching across southern Panama's Darién Province and the northern portion of Colombia's Chocó Department, it acts as a natural barrier between North America and South America. Consisting of a large drainage basin, dense rainforest, and mountains, it is known for its remoteness, difficult terrain, and extreme environment, with a reputation as one of the most inhospitable regions in the world."},
+			{"text": "Nevertheless, as the only land bridge between North America and South America, the Darién Gap has historically served as a major route for both humans and wildlife."}
+		]
 	},
 	{
 		"name": "Pantanal",
@@ -395,7 +403,13 @@
 			"Occurs in groups of [2] to [4] tiles"],
 		"turnsInto": "Grassland",
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Pantanal is a natural region encompassing the world's largest tropical wetland area, and the world's largest flooded grasslands."},
+			{"text": "It is located mostly within the Brazilian state of Mato Grosso do Sul, but it extends into Mato Grosso and portions of Bolivia and Paraguay. It sprawls over an area estimated at between 140,000 and 195,000 km2 (54,000 and 75,000 sq mi)."},
+			{"text": "Various subregional ecosystems exist, each with distinct hydrological, geological, and ecological characteristics; up to 12 of them have been defined."},
+			{"text": "Roughly 80% of the Pantanal floodplains are submerged during the rainy seasons, nurturing a biologically diverse collection of aquatic plants and helping to support a dense array of animal species."}
+		]
 	},
 	{
 		"name": "Mount Kilimanjaro",
@@ -526,7 +540,13 @@
 		"uniques": ["Must be adjacent to [1] to [3] [Grassland] tiles"],
 		"turnsInto": "Coast",
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Chicxulub crater is an impact crater buried underneath the Yucatán Peninsula in Mexico. The crater is named after the onshore inland community of Chicxulub Pueblo."},
+			{"text": "It was formed slightly over 66 million years ago when an asteroid, about ten kilometers (six miles) in diameter, struck Earth. The crater is estimated to be two hundred kilometers (120 mi) in diameter and is buried to a depth of about one kilometer (0.6 mi) beneath younger sedimentary rocks."},
+			{"text": "It is one of the largest impact structures on Earth, alongside the much older Sudbury and Vredefort impact structures, and the only one whose peak ring is intact and directly accessible for scientific research."},
+			{"text": "The date of the impact coincides with the Cretaceous–Paleogene boundary (commonly known as the K–Pg or K–T boundary). It is now widely accepted that the devastation and climate disruption resulting from the impact was the primary cause of the Cretaceous–Paleogene extinction event, a mass extinction of 75% of plant and animal species on Earth, including all non-avian dinosaurs."}
+		]
 	},
 	{
 		"name": "Kalambo Falls",
@@ -617,7 +637,11 @@
 			"Occurs in groups of [1] to [4] tiles"],
 		"turnsInto": "Plains",
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Serengeti is a geographical region in Africa, spanning the Mara and Arusha Regions of Tanzania and extending to southwestern Kenya."},
+			{"text": "The protected area within the region includes approximately 30,000 km2 (12,000 sq mi) of land, including the Serengeti National Park and several game reserves. The Serengeti hosts one of the world's largest land animal migration (in terms of total body weight), which helps secure it as one of the Seven Natural Wonders of Africa."},
+		]
 	},
 	{
 		"name": "Sahara el Beyda",
@@ -687,7 +711,12 @@
 		"uniques": [""],
 		"turnsInto": "Grassland",
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Everglades is a natural region of flooded grasslands in the southern portion of the U.S. state of Florida, comprising the southern half of a large drainage basin within the Neotropical realm."},
+			{"text": "The system begins near Orlando with the Kissimmee River, which discharges into the vast but shallow Lake Okeechobee. Water leaving the lake in the wet season forms a slow-moving river 60 miles (97 km) wide and over 100 miles (160 km) long, flowing southward across a limestone shelf to Florida Bay at the southern end of the state. The Everglades experiences a wide range of weather patterns, from frequent flooding in the wet season to drought in the dry season."},
+			{"text": "Throughout the 20th century, the Everglades suffered significant loss of habitat and environmental degradation."}
+		]
 	},
 	{
 		"name": "Mauna Kea",
