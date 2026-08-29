@@ -482,7 +482,10 @@
 		"uniques": ["Must be adjacent to [2] to [4] [Coast] tiles",
 			"Must be adjacent to [0] [Mountain] tiles",
 			"Must not be on [1] largest landmasses"],
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The White Cliffs of Dover are the region of English coastline facing the Strait of Dover and France. The cliff face, which reaches a height of 350 feet (110 m), owes its striking appearance to its composition of chalk accented by streaks of black flint, deposited during the Late Cretaceous."},
+			{"text": "The cliffs, on both sides of the town of Dover in Kent, stretch for eight miles (13 km). The White Cliffs of Dover form part of the North Downs. The cliffs are part of the Dover to Kingsdown Cliffs Site of Special Scientific Interest and Special Area of Conservation. The top of the cliffs hosts a chalk grassland ecosystem with an abundance of bird, flower, and butterfly species."}
 	},
 	{
 		"name": "Lake Vostok",
@@ -554,7 +557,9 @@
 			"Must not be on [1] largest landmasses"],
 			"turnsInto": "Grassland",
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Chocolate Hills (Cebuano: Mga Bungtod sa Tsokolate, Filipino: Mga Tsokolateng Burol, or Mga Burol na Tsokolate) are a geological formation in the Philippine province of Bohol. A minimum of 1,260 hills, and possibly over 1,776, spread over an area of more than 50 square kilometers (20 sq mi). They are covered in green grass that turns a chocolate-brown during the dry season, hence the name."}
 	},
 	{
 		"name": "Chicxulub Crater",
@@ -779,7 +784,10 @@
 		"uniques": [""],
 		"turnsInto": "Grassland",
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Galápagos Islands (Spanish: Islas Galápagos) are an archipelago of volcanic islands in the Eastern Pacific, located around the equator, 485 nautical miles (898 km; 558 mi) west of the mainland of South America. They form the Galápagos Province of the Republic of Ecuador, with a population of slightly over 33,000 in 2020. The province is divided into the cantons of San Cristóbal, Santa Cruz, and Isabela, the three most populated islands in the chain."},
+			{"text": "The Galápagos are famous for their large number of endemic species, which were studied by Charles Darwin in the 1830s and inspired his theory of evolution by means of natural selection. All of these islands are protected as part of Ecuador's Galápagos National Park and Marine Reserve."}
 	},
 	{
 		"name": "Torres Del Paine",
@@ -822,6 +830,12 @@
 		"turnsInto": "Coast",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Giant's Causeway (Irish: Clochán an Aifir or Clochán na bhFomhórach) is an area of approximately 40,000 interlocking basalt columns, the result of an ancient volcanic fissure eruption, part of the North Atlantic Igneous Province active in the region during the Paleogene period. It is located in County Antrim on the north coast of Northern Ireland, about three miles (4.8 km) northeast of the town of Bushmills."},
+			{"text": "The tops of the columns form stepping stones that lead from the cliff foot and disappear under the sea. Most of the columns are hexagonal, although some have between four and eight sides. The tallest are approximately 12 metres (39 ft) high, and the solidified lava in the cliffs is 28 metres (92 ft) thick in places."},
+			{"text": ""},
+			{"text": "According to legend, a form of geomyth, the columns are the remains of a causeway built by a giant. The story goes that the Irish giant Fionn mac Cumhaill (Finn MacCool), from the Fenian Cycle of Gaelic mythology, was challenged to a fight by the Scottish giant Benandonner. Fionn accepted the challenge and built the causeway across the North Channel so that the two could meet. In one version of the story, Fionn defeats Benandonner. Another common telling of the story has Fionn hide from Benandonner when he realises that his foe is much bigger than he is. Fionn's wife, Sadhbh, disguises Fionn as a baby and tucks him in a cradle. When Benandonner sees the size of the 'baby', he imagines that its father, Fionn, must be a giant among giants. He flees back to Scotland in fright, destroying the causeway behind him so that Fionn would be unable to chase him down. Across the sea, there are identical basalt columns (a part of the same ancient lava flow) at Fingal's Cave on the Scottish isle of Staffa, and it is possible that the story was influenced by this."}
+		]
 	}
 ]
