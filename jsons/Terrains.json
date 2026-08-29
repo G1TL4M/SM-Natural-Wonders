@@ -51,7 +51,11 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Old Faithful is a cone geyser in Yellowstone National Park in Wyoming, United States. It was named in 1870 during the Washburn–Langford–Doane Expedition and was the first geyser in the park to be named."},
+			{"text": "It is a highly predictable geothermal feature, erupting on average every 92 minutes, with the period between eruptions ranging from as short as 35 minutes to as long as 120 minutes. The geyser and the nearby Old Faithful Inn are part of the Old Faithful Historic District."}
+		]
 	},
 	{
 		"name": "El Dorado",
@@ -103,7 +107,10 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Grand Mesa is a large mesa in western Colorado in the United States. It is the largest flat-topped mountain in the world. It has an area of about 500 square miles (1,300 km2) and stretches for about 40 miles (60 km) east of Grand Junction between the Colorado River and the Gunnison River, its tributary to the south."}
+		]
 	},
 	{
 		"name": "Mount Fuji",
@@ -140,7 +147,10 @@
 		"turnsInto": "Volcano",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Krakatoa is a caldera in the Sunda Strait between the islands of Java and Sumatra in the Indonesian province of Lampung. The caldera is part of a volcanic island group (Krakatoa archipelago) comprising four islands. Two of them are known as Lang and Verlaten; another, Rakata, is the only remnant of an island, also called Krakatoa, mostly destroyed by an eruption in 1883 which created the caldera."}
+		]
 	},
 	{
 		"name": "Rock of Gibraltar",
@@ -154,7 +164,12 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "The Rock of Gibraltar is a monolithic limestone mountain 426 m (1,398 ft) high dominating the western entrance to the Mediterranean Sea at the Strait of Gibraltar."},
+			{"text": "It is situated near the end of a narrow 9-kilometre-long (5.6 mi) promontory stretching due south into the Mediterranean Sea and is located within the British territory of Gibraltar. The rock is 27 km northeast of Tarifa, Spain, the southwestern tip of Europe on the Iberian Peninsula."},
+			{"text": "The rock serves as a fortress and contains a labyrinthine network of man-made tunnels known as the Tunnels of Gibraltar. Most of the Rock's upper area comprises a nature reserve which is home to about 300 Barbary macaques. It is a major tourist attraction."}
+		]
 	},
 	{
 		"name": "Cerro de Potosi",
@@ -186,7 +201,13 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Barringer Crater, or Meteor Crater, is an impact crater about 37 mi (60 km) east of Flagstaff and 18 mi (29 km) west of Winslow in the desert of northern Arizona, United States. The site had several earlier names, and fragments of the meteorite are officially called the Canyon Diablo Meteorite, after the adjacent Canyon Diablo."},
+			{"text": ""},
+			{"text": "Despite an attempt to make the crater a public landmark, the crater remains privately owned by the Barringer family to the present day through their Barringer Crater Company. The Lunar and Planetary Institute, the American Museum of Natural History, and other science institutes proclaim it to be the 'best-preserved meteorite crater on Earth'."},
+			{"text": "It was designated a National Natural Landmark in November 1967."}
+		]
 	},
 	// G&K Wonders
 	{
@@ -264,7 +285,11 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Uluru, also known as Ayers Rock and officially gazetted as Uluru / Ayers Rock, is a large sandstone monolith. It crops out near the centre of Australia in the southern part of the Northern Territory, 335 km (208 mi) south-west of Alice Springs."},
+			{"text": "Uluru is sacred to the Pitjantjatjara, the Aboriginal people of the area, known as the Aṉangu. The area around the formation is home to an abundance of springs, waterholes, rock caves and ancient paintings."}
+		]
 	},
 	// Added Wonders
 	{
