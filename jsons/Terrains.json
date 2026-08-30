@@ -775,6 +775,28 @@
 		]
 	},
 	{
+		"name": "Ubsunur Hollow",
+		"type": "NaturalWonder",
+		"food": "2",
+		"production": "2",
+		"faith": "2",
+		"overrideStats": true,
+		"occursOn": ["Plains","Desert","Tundra"],
+		"uniques": ["Fresh water",
+			"Must be adjacent to [1] [Desert] tiles",
+			"Must be adjacent to [1] [Tundra] tiles",
+			"Must be adjacent to [0] [Water] tiles",
+			"Occurs in groups of [1] to [2] tiles"],
+		"turnsInto": "Plains",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Uvs Lake Basin (also Uvs Nuur Basin or Ubs Nuur Basin; Mongolian: Увс нуурын хотгор, romanized: Uws nuuriin hotgor) is an endorheic basin located on the territorial border of Mongolia and Russia. The basin is part of the Central Asian Internal Drainage Basin and is named after Uvs Lake (Uvs Nuur, Ubsu Nur), a large saline lake situated in the western part of its drainage basin, and is one of the last remnants of the mammoth steppes. Uvs Lake is a shallow lake with an area of 3,350 km2 (1,290 sq mi). The basin, which includes several smaller lakes, is 70,000 km2 (27,000 sq mi)."},
+			{"text": "According to Greenpeace, Ubsunur Hollow counts 40,000 archaeological sites from nomadic Scythians, Turks, Huns and other tribes. A number of its archaeological artefacts remain unstudied. In Central Asia, it has the highest concentration of burial mounds, constituting around half of its archaeological sites, and many of which are older than the Egyptian pyramids. Thousands of rock carvings and stone sculptures remain from medieval settlements and Buddhist temples."}
+		]
+	},
+	{
 		"name": "The Everglades",
 		"type": "NaturalWonder",
 		"overrideStats": true,
