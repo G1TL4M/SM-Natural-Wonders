@@ -192,3 +192,10 @@ TileSets/FantasyHex/Tiles/Ubsunur Hollow
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Giant's Causeway
+  rotate: false
+  xy: 284, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
