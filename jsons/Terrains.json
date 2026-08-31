@@ -10,7 +10,10 @@
             "Occurs in chains at high elevations",
             "Units ending their turn on this terrain take [50] damage",
             "Always Fertility [-6] for Map Generation",
-            "Considered [Undesirable] when determining start locations"]
+            "Considered [Undesirable] when determining start locations"],
+		"civilopediaText": [
+			{"text": "This was taken directly from YARM."}
+		]
 	},
 	
 	// Natural Wonders
