@@ -800,7 +800,7 @@
 		"name": "Giant's Causeway",
 		"type": "NaturalWonder",
 		"overrideStats": true,
-		"occoursOn": ["Coast"],
+		"occursOn": ["Coast"],
 		"uniques": ["Must be adjacent to [2] to [4] [Land] tiles",
 			"Occurs on latitudes from [40] to [70] percent of distance equator to pole",
 			"Occurs in groups of [2] to [2] tiles"],
@@ -850,7 +850,7 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10,
+		"weight": 8,
 		"civilopediaText": [
 			{"text": "The Mountains of the Moon (Latin: Montes Lunae; Arabic: جبال القمر, Jibālu al-Qamar or Jibbel el Kumri) are a legendary mountain or mountain range in east Africa at the source of the Nile River."},
 			{"text": "Various identifications have been made in modern times, the Rwenzori Mountains of Uganda and the Democratic Republic of the Congo being the most celebrated."}
