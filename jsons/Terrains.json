@@ -808,6 +808,9 @@
 	{
 		"name": "Giant's Causeway",
 		"type": "NaturalWonder",
+		"culture": 2,
+		"faith": 1,
+		"science": 1,
 		"overrideStats": true,
 		"occursOn": ["Coast"],
 		"uniques": ["Must be adjacent to [2] to [4] [Land] tiles",
@@ -823,6 +826,23 @@
 			{"text": ""},
 			{"text": "According to legend, a form of geomyth, the columns are the remains of a causeway built by a giant. The story goes that the Irish giant Fionn mac Cumhaill (Finn MacCool), from the Fenian Cycle of Gaelic mythology, was challenged to a fight by the Scottish giant Benandonner. Fionn accepted the challenge and built the causeway across the North Channel so that the two could meet. In one version of the story, Fionn defeats Benandonner. Another common telling of the story has Fionn hide from Benandonner when he realises that his foe is much bigger than he is. Fionn's wife, Sadhbh, disguises Fionn as a baby and tucks him in a cradle. When Benandonner sees the size of the 'baby', he imagines that its father, Fionn, must be a giant among giants. He flees back to Scotland in fright, destroying the causeway behind him so that Fionn would be unable to chase him down. Across the sea, there are identical basalt columns (a part of the same ancient lava flow) at Fingal's Cave on the Scottish isle of Staffa, and it is possible that the story was influenced by this."},
 			{"text": "The sprite is based on Malwen's Civ6 Tileset sprite"}
+		]
+	},
+	{
+		"name": "Atlantis",
+		"type": "NaturalWonder",
+		"culture": 5,
+		"overrideStats": true,
+		"occursOn": ["Ocean"],
+		"uniques": ["Must be adjacent to [1] to [3] [Coast] tiles",
+			"Occurs on latitudes from [30] to [60] percent of distance equator to pole"],
+		"turnsInto": "Ocean",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 2,
+		"civilopediaText": [
+			{"text": ""},
+			{"text": "The sprite is based on something i forget who made it"}
 		]
 	},
 	{
