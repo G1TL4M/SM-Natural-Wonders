@@ -199,3 +199,10 @@ TileSets/FantasyHex/Tiles/Giant's Causeway
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Atlantis
+  rotate: false
+  xy: 324, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
