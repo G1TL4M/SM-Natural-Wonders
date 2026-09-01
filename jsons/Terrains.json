@@ -524,7 +524,7 @@
 			"Occurs in groups of [1] to [3] tiles"],
 		"turnsInto": "Tundra",
 		"unbuildable": true,
-		"weight": 10,
+		"weight": 9, // The reason it has a lower weight is because Tunguska happened less than 2 centuries ago
 		"civilopediaText": [
 			{"text": "The Tunguska event was a large explosion of between 3 and 50 megatons TNT equivalent that occurred near the Podkamennaya Tunguska River in Yeniseysk Governorate (now Krasnoyarsk Krai), Russia, on the morning of 30 June [O.S. 17 June] 1908."},
 			{"text": "The explosion over the sparsely populated East Siberian taiga felled a large number of trees, over an area of 2,150 km2 (830 sq mi) of forest, and eyewitness accounts suggest up to three people may have died."}
@@ -842,7 +842,7 @@
 		"gold": 5,
 		"overrideStats": true,
 		"occursOn": ["Ocean"],
-		"uniques": ["Must be adjacent to [1] to [3] [Coast] tiles",
+		"uniques": ["Must be adjacent to [2] to [3] [Coast] tiles",
 			"Occurs on latitudes from [30] to [60] percent of distance equator to pole"],
 		"turnsInto": "Ocean",
 		"impassable": true,
@@ -889,7 +889,7 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 8,
+		"weight": 8, // It has a slightly lower weight because its slightly fictional
 		"civilopediaText": [
 			{"text": "The Mountains of the Moon (Latin: Montes Lunae; Arabic: جبال القمر, Jibālu al-Qamar or Jibbel el Kumri) are a legendary mountain or mountain range in east Africa at the source of the Nile River."},
 			{"text": "Various identifications have been made in modern times, the Rwenzori Mountains of Uganda and the Democratic Republic of the Congo being the most celebrated."}
