@@ -832,6 +832,7 @@
 		"name": "Atlantis",
 		"type": "NaturalWonder",
 		"culture": 5,
+		"gold": 5,
 		"overrideStats": true,
 		"occursOn": ["Ocean"],
 		"uniques": ["Must be adjacent to [1] to [3] [Coast] tiles",
