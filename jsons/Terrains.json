@@ -863,7 +863,7 @@
 		"movementCost": 3,
 		"defenceBonus": -0.15,
 		"overrideStats": true,
-		"occoursOn": ["Grassland"],
+		"occursOn": ["Grassland"],
 		"uniques": ["Fresh water",
 			"Must be adjacent to [1] to [5] [Grassland] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
