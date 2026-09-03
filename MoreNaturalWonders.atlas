@@ -206,3 +206,10 @@ TileSets/FantasyHex/Tiles/Atlantis
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Everglades
+  rotate: false
+  xy: 364, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
