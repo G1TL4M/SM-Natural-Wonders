@@ -1,5 +1,5 @@
 MoreNaturalWonders.png
-size: 400, 120
+size: 400, 160
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -209,6 +209,13 @@ TileSets/FantasyHex/Tiles/Atlantis
 TileSets/FantasyHex/Tiles/The Everglades
   rotate: false
   xy: 364, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lencois Maranhenses
+  rotate: false
+  xy: 4, 124
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
