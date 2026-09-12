@@ -880,6 +880,20 @@
 		]
 	},
 	{
+		"name": "Lencois Maranhenses",
+		"type": "NaturalWonder",
+		"culture": 3,
+		"gold": 2,
+		"overrideStats": true,
+		"occursOn": ["Desert"],
+		"uniques": ["Must be adjacent to [1] to [3] [Coast] tiles",9
+			"Occurs in groups of [1] to [2] tiles"],
+		"turnsInto": "Desert",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
 		"name": "Mauna Kea",
 		"type": "NaturalWonder",
 		"overrideStats": true,
