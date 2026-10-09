@@ -227,3 +227,10 @@ TileSets/FantasyHex/Tiles/Okavango Delta
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Cave Of Crystals
+  rotate: false
+  xy: 84, 124
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
