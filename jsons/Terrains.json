@@ -924,6 +924,21 @@
 		]
 	},
 	{
+		"name": "Valley Of Flowers",
+		"type": "NaturalWonder",
+		"food": 2,
+		"culture": 2,
+		"happiness": 2,
+		"occursOn": ["Plains"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [2] to [3] [Mountain] tiles",
+			"Must be adjacent to [4] to [6] [Elevated] tiles",
+			"Occurs in groups of [1] to [2] tiles"],
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
 		"name": "Mauna Kea",
 		"type": "NaturalWonder",
 		"overrideStats": true,
