@@ -899,12 +899,29 @@
 		"food": 2,
 		"gold": 2,
 		"occursOn": ["Plains"],
-		"uniques": ["Must he adjacent to [0] [Coast] tiles",
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [3] to [6] [Plains] tiles"],
 		"turnsInto": "Plains",
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
+	},
+	{
+		"name": "Cave Of Crystals",
+		"type": "NaturalWonder",
+		"science": 2,
+		"gold": 2,
+		"occursOn": ["Plains","Desert"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [2] to [6] [Hill] tiles"],
+		"turnsInto": "Plains",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10,
+		"civilopediaText": [
+			{"text": "Cave of the Crystals (Spanish: Cueva de los cristales), also known as Naica Cave (Spanish: Cueva de Naica) or the Giant Crystal Cave, is a cave connected to the Naica Mine at a depth of 300 metres (980 ft), in Naica, Chihuahua, Mexico. It takes the form of a chamber within the limestone host rock of the mine, and is about 109 metres (358 ft) long with a volume of 5,000 to 6,000 cubic metres (180,000 to 210,000 ft3)."},
+			{"text": "The chamber contains giant selenite crystals (gypsum, CaSO4 · 2 H2O), some of the largest natural crystals ever found. The largest is 11.4 metres (37 ft), with a volume of about 5 cubic metres (180 ft3), and an estimated mass of 12 tonnes. When not flooded, the cave is extremely hot, with air temperatures reaching up to 58 °C (136 °F) with 90 to 99 percent humidity. This is comparable to temperature records in Death Valley, but with much wetter air that results in a much higher wet bulb temperature; this prevents cooling via sweating. The cave is relatively unexplored because of these factors. Without proper protection, people can only endure approximately ten minutes of exposure at a time."}
+		]
 	},
 	{
 		"name": "Mauna Kea",
