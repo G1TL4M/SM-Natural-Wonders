@@ -47,7 +47,8 @@
             "Considered [Food] when determining start locations <in [Hill] Regions>",
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
+			"[+1 Culture] <for every adjacent [Giant's Causeway]>"]
     },
 	{
 		"name": "Plains",
@@ -76,6 +77,7 @@
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
+			"[+1 Culture] <for every adjacent [Giant's Causeway]>",
 			"[+1 Faith] <for every adjacent [Uluru]>"]
 	},
 	{
@@ -94,7 +96,8 @@
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
             "Becomes [Plains] when adjacent to [River]",
-            "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."]
+            "Every [16] tiles with this terrain will receive a major deposit of a strategic resource.",
+			"[+1 Culture] <for every adjacent [Giant's Causeway]>"]
 	},
 	{
 		"name": "Desert",
@@ -111,6 +114,7 @@
             "Becomes [Flood plains] when adjacent to [River]",
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
             "Every [13] tiles with this terrain will receive a major deposit of a strategic resource.",
+			"[+1 Culture] <for every adjacent [Giant's Causeway]>",
 			"[+1 Faith] <for every adjacent [Uluru]>"]
 	},
 	{
@@ -142,7 +146,8 @@
             "Occurs in chains at high elevations",
             "Units ending their turn on this terrain take [50] damage",
             "Always Fertility [-2] for Map Generation",
-            "Considered [Undesirable] when determining start locations"]
+            "Considered [Undesirable] when determining start locations",
+			"[+1 Culture] <for every adjacent [Giant's Causeway]>"]
 	},
 	{
 		"name": "Snow",
@@ -159,7 +164,8 @@
             "Considered [Undesirable] when determining start locations",
             "Becomes [Tundra] when adjacent to [River]",
             "Every [17] tiles with this terrain will receive a major deposit of a strategic resource.",
-            "Never receives any resources <in [Hill] tiles>"]
+            "Never receives any resources <in [Hill] tiles>",
+			"[+1 Culture] <for every adjacent [Giant's Causeway]>"]
 	},
 	{
 		"name": "Volcano",
@@ -172,7 +178,8 @@
             "Occurs in chains at high elevations",
             "Units ending their turn on this terrain take [50] damage",
             "Always Fertility [-6] for Map Generation",
-            "Considered [Undesirable] when determining start locations"],
+            "Considered [Undesirable] when determining start locations",
+			"[+1 Culture] <for every adjacent [Giant's Causeway]>"],
 		"civilopediaText": [
 			{"text": "This was taken directly from YARM."}
 		]
