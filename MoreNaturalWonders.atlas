@@ -131,9 +131,9 @@ TileSets/FantasyHex/Tiles/Zhangye Danxia
   index: -1
 TileSets/FantasyHex/Tiles/Ha Long Bay
   rotate: false
-  xy: 324, 44
-  size: 32, 32
-  orig: 32, 32
+  xy: 324, 43
+  size: 32, 34
+  orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/The Serengeti
