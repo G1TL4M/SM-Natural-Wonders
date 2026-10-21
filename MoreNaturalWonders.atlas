@@ -248,3 +248,10 @@ TileSets/FantasyHex/Tiles/Zhangjiajie
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Mapu'a Vaea Blowholes
+  rotate: false
+  xy: 204, 124
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
