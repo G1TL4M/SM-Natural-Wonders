@@ -147,7 +147,8 @@
             "Units ending their turn on this terrain take [50] damage",
             "Always Fertility [-2] for Map Generation",
             "Considered [Undesirable] when determining start locations",
-			"[+1 Culture] <for every adjacent [Giant's Causeway]>"]
+			"[+1 Culture] <for every adjacent [Giant's Causeway]>",
+			"[+1 Culture] <for every adjacent [Zhangjiajie]>"]
 	},
 	{
 		"name": "Snow",
@@ -179,7 +180,8 @@
             "Units ending their turn on this terrain take [50] damage",
             "Always Fertility [-6] for Map Generation",
             "Considered [Undesirable] when determining start locations",
-			"[+1 Culture] <for every adjacent [Giant's Causeway]>"],
+			"[+1 Culture] <for every adjacent [Giant's Causeway]>",
+			"[+1 Culture] <for every adjacent [Zhangjiajie]>"]
 		"civilopediaText": [
 			{"text": "This was taken directly from YARM."}
 		]
@@ -1106,6 +1108,21 @@
 			"Must be adjacent to [2] to [3] [Mountain] tiles",
 			"Must be adjacent to [4] to [6] [Elevated] tiles",
 			"Occurs in groups of [1] to [2] tiles"],
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Zhangjiajie",
+		"type": "NaturalWonder",
+		"production": 4,
+		"happiness": 2,
+		"culture": 2,
+		"occursOn": ["Mountain"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] to [2] [Mountain] tiles",
+			"Must be adjacent to [4] to [6] [Elevated] tiles",
+			"Occurs in groups of [2] to [2] tiles"],
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
