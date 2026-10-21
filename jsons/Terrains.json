@@ -48,7 +48,8 @@
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
-			"[+1 Culture] <for every adjacent [Giant's Causeway]>"]
+			"[+1 Culture] <for every adjacent [Giant's Causeway]>",
+			"[+1 Culture] <for every adjacent [Mapu'a Vaea Blowholes]>"]
     },
 	{
 		"name": "Plains",
@@ -78,6 +79,7 @@
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
 			"[+1 Culture] <for every adjacent [Giant's Causeway]>",
+			"[+1 Culture] <for every adjacent [Mapu'a Vaea Blowholes]>",
 			"[+1 Faith] <for every adjacent [Uluru]>"]
 	},
 	{
@@ -97,7 +99,8 @@
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
             "Becomes [Plains] when adjacent to [River]",
             "Every [16] tiles with this terrain will receive a major deposit of a strategic resource.",
-			"[+1 Culture] <for every adjacent [Giant's Causeway]>"]
+			"[+1 Culture] <for every adjacent [Giant's Causeway]>",
+			"[+1 Culture] <for every adjacent [Mapu'a Vaea Blowholes]>"]
 	},
 	{
 		"name": "Desert",
@@ -115,6 +118,7 @@
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
             "Every [13] tiles with this terrain will receive a major deposit of a strategic resource.",
 			"[+1 Culture] <for every adjacent [Giant's Causeway]>",
+			"[+1 Culture] <for every adjacent [Mapu'a Vaea Blowholes]>",
 			"[+1 Faith] <for every adjacent [Uluru]>"]
 	},
 	{
@@ -148,6 +152,7 @@
             "Always Fertility [-2] for Map Generation",
             "Considered [Undesirable] when determining start locations",
 			"[+1 Culture] <for every adjacent [Giant's Causeway]>",
+			"[+1 Culture] <for every adjacent [Mapu'a Vaea Blowholes]>",
 			"[+1 Culture] <for every adjacent [Zhangjiajie]>"]
 	},
 	{
@@ -166,7 +171,8 @@
             "Becomes [Tundra] when adjacent to [River]",
             "Every [17] tiles with this terrain will receive a major deposit of a strategic resource.",
             "Never receives any resources <in [Hill] tiles>",
-			"[+1 Culture] <for every adjacent [Giant's Causeway]>"]
+			"[+1 Culture] <for every adjacent [Giant's Causeway]>",
+			"[+1 Culture] <for every adjacent [Mapu'a Vaea Blowholes]>"]
 	},
 	{
 		"name": "Volcano",
@@ -181,6 +187,7 @@
             "Always Fertility [-6] for Map Generation",
             "Considered [Undesirable] when determining start locations",
 			"[+1 Culture] <for every adjacent [Giant's Causeway]>",
+			"[+1 Culture] <for every adjacent [Mapu'a Vaea Blowholes]>",
 			"[+1 Culture] <for every adjacent [Zhangjiajie]>"]
 		"civilopediaText": [
 			{"text": "This was taken directly from YARM."}
@@ -1108,6 +1115,7 @@
 			"Must be adjacent to [2] to [3] [Mountain] tiles",
 			"Must be adjacent to [4] to [6] [Elevated] tiles",
 			"Occurs in groups of [1] to [2] tiles"],
+		"turnsInto": "Plains",
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
@@ -1123,6 +1131,20 @@
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
 			"Must be adjacent to [4] to [6] [Elevated] tiles",
 			"Occurs in groups of [2] to [2] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Mapu'a Vaea Blowholes",
+		"type": "NaturalWonder",
+		"production": 2,
+		"happiness": 4,
+		"occursOn": ["Coast"],
+		"uniques": ["Must be adjacent to [2] to [4] [Land] tiles",
+			"Occurs in groups of [2] to [2] tiles"],
+		"turnsInto": "Coast",
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
