@@ -241,3 +241,10 @@ TileSets/FantasyHex/Tiles/Valley Of Flowers
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Zhangjiajie
+  rotate: false
+  xy: 164, 124
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
